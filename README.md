@@ -2,6 +2,7 @@
 
 [![build-status-image]][travis]
 [![pypi-version]][pypi]
+[![pypi-pyversion]][pypi]
 
 ## Overview
 
@@ -119,5 +120,6 @@ $ mkdocs build
 
 [build-status-image]: https://travis-ci.org/MGXRace/django-warmama.png?branch=master
 [travis]: http://travis-ci.org/MGXRace/django-warmama?branch=master
-[pypi-version]: https://pypip.in/version/django-warmama/badge.svg
+[pypi-version]: https://pypip.in/v/django-warmama/badge.svg
+[pypi-pyversion]: https://pypip.in/py_versions/django-warmama/badge.svg
 [pypi]: https://pypi.python.org/pypi/django-warmama
