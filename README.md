@@ -117,7 +117,7 @@ $ mkdocs build
 ```
 
 
-[build-status-image]: https://secure.travis-ci.org/kalhartt/django-warmama.png?branch=master
-[travis]: http://travis-ci.org/kalhartt/django-warmama?branch=master
+[build-status-image]: https://travis-ci.org/MGXRace/django-warmama.png?branch=master
+[travis]: http://travis-ci.org/MGXRace/django-warmama?branch=master
 [pypi-version]: https://pypip.in/version/django-warmama/badge.svg
 [pypi]: https://pypi.python.org/pypi/django-warmama
